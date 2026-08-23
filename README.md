@@ -57,46 +57,6 @@
 
 ---
 
-### 💼 Experience
-
-```text
-Feb 2025 – Present     Jr. Web Developer            @ Excellence Technology Pvt. Ltd.   Noida
-Aug 2024 – Feb 2025    Frontend Developer            @ CredWings Services Pvt. Ltd.      Noida
-Dec 2023 – Jun 2024    On-Job Trainee (Frontend)      @ InfoBeans Ltd.                    Indore
-```
-
-- ⚡ Built reusable UI components in **React.js, Vue.js & Nuxt.js**, cutting dev time by **20%**
-- ⚡ Optimized rendering & state management — **25% faster page loads**, **30% fewer UI bugs**
-- ⚡ Delivered across **4+ concurrent client applications** with consistent UI/UX standards
-- ⚡ Improved render speed by **20%** via lazy loading, memoization & code-splitting
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Casamia.co](https://casamia.co)** | Vue.js, Prismic CMS | CMS-driven landing pages · +20% lead capture · 25% faster loads |
-| **[MTMPro](https://mtmpro.com)** | Vue.js, Full Stack | Order-management & supplier modules · 20% faster processing |
-| **[Odin500 Trading Platform](https://odin500.com)** | Full Stack | Real-time OHLC dashboards with TradingView, 100+ concurrent users, 50+ updates/sec |
-| **AI Voice & Automation Agents** | n8n, GHL, Twilio, ElevenLabs | Voice AI agents handling 200+ calls/month · cut manual workload by 30% |
-
----
-
-### 🎓 Education
-
-- **Vellore Institute of Technology** — MCA, CGPA 8.0 _(Aug 2022 – Aug 2024)_
-- **Maharaja Ranjit Singh College of Professional Sciences** — BCA, CGPA 7.0 _(Jun 2018 – Jun 2021)_
-
-### 🏆 Achievements & Certifications
-
-![HackerRank](https://img.shields.io/badge/HackerRank-5★_C++_%7C_4★_Problem_Solving-2EC866?style=flat&logo=hackerrank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-50%2B_Problems_Solved-FFA116?style=flat&logo=leetcode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/Certified-React.js_%26_Redux-61DAFB?style=flat&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/Certified-SQL_Masterclass-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
 
 ### 📊 GitHub Stats
 
