@@ -12,17 +12,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gautam-Yadav1&label=Profile%20views&color=0e75b6&style=flat" alt="Gautam-Yadav1" />
   <a href="https://linkedin.com/in/gautamyadav1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gautamyadav059.500@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gautam.yadav.work1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Noida%2C%20India-informational?style=flat" />
 </p>
 
 - 🎯 Frontend Developer with **2+ years** of experience building high-performance, scalable web apps
-- 🔭 Currently working as a **Jr. Web Developer** at **Excellence Technology Pvt. Ltd.**
+- 🔭 Currently working as a ** Web Developer** at **Excellence Technology Pvt. Ltd.**
 - 🛠️ I work with **React.js, Vue.js, Nuxt.js & TypeScript**, and love clean, reusable component architecture
 - 🌱 Currently exploring **AI Agents & Workflow Automation** (n8n, GoHighLevel, Twilio, ElevenLabs)
 - 💬 Ask me about **React.js, Vue.js, or state management (Redux Toolkit / Vuex / Pinia)**
 - 📈 Track record: cut page load times by up to **25%**, reduced UI bugs by **30%**
-- 📫 Reach me at **gautamyadav059.500@gmail.com**
+- 📫 Reach me at **gautam.yadav.work1@gmail.com**
 - ⚡ Fun fact: 5-star C++ on HackerRank & 50+ problems solved on LeetCode
 
 ---
